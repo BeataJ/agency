@@ -101,4 +101,9 @@ nav ul li a:hover {
   margin: 10px auto 20px auto;
 }
 
+.banner-btn {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* -------end of banner---------- */
