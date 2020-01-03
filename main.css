@@ -88,4 +88,11 @@ nav ul li a:hover {
   justify-content: center;
 }
 
+.banner-text {
+  font-size: 50px;
+  text-transform: uppercase;
+  color: #e0e2db;
+  font-style: italic;
+}
+
 /* -------end of banner---------- */
