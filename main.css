@@ -179,7 +179,7 @@ nav ul li a:hover {
 
 /* -----services section --------- */
 
-/* --title---- */
+/* --title sercives---- */
 
 .title {
   margin: 40px 0;
@@ -198,6 +198,16 @@ nav ul li a:hover {
   border: 3px solid #e6af2e;
   margin: 0 auto;
 }
-/* ----end of title ---- */
+/* ----end of title services---- */
+
+#services {
+  min-height: 100vh;
+  background: url(./images/services.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px 0 80px 0;
+}
 
 /* -------end of services section------- */
