@@ -13,3 +13,12 @@ body {
   font-family: 'Roboto',
     sans-serif;
 }
+
+/* nav */
+
+nav ul {
+  list-style-type: none;
+  border-top: 6px solid #e6af2e;
+}
+
+/* end nav */
