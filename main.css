@@ -145,4 +145,12 @@ nav ul li a:hover {
   color: #191716;
 }
 
+.skills-item h1 {
+  font-size: 30px;
+  letter-spacing: 2px;
+  margin: 30px 0;
+  color: #e6af2e;
+  text-transform: uppercase;
+}
+
 /* -----------end of skills section--------- */
