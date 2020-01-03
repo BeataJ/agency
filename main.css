@@ -130,4 +130,9 @@ nav ul li a:hover {
   background: #beb7a4;
 }
 
+.skills-container {
+  max-width: 95vw;
+  margin: 0 auto;
+}
+
 /* -----------end of skills section--------- */
