@@ -116,4 +116,9 @@ nav ul li a:hover {
   border: 2px solid #e6af2e;
 }
 
+.banner-btn button:hover {
+  color: #e0e2db;
+  background: #e6af2e;
+}
+
 /* -------end of banner---------- */
