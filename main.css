@@ -153,4 +153,10 @@ nav ul li a:hover {
   text-transform: uppercase;
 }
 
+.skills-item p {
+  width: 75%;
+  margin: 0 auto;
+  color: #e0e2db;
+}
+
 /* -----------end of skills section--------- */
