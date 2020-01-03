@@ -45,6 +45,9 @@ nav ul li a:hover {
   font-style: italic;
 }
 
-
+.logo:hover {
+  background-color: #e0e2db;
+  color: #e6af2e;
+}
 
 /* end nav */
