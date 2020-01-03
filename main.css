@@ -135,4 +135,9 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
+.skills-item {
+  text-align: center;
+  margin: 20px 0;
+}
+
 /* -----------end of skills section--------- */
