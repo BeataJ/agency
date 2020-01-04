@@ -247,7 +247,7 @@ nav ul li a:hover {
 
 .back-text {
   position: absolute;
-  bottom: -15em;
+  bottom: -1em;
   width: 75%;
   margin: 0 auto;
   height: 100%;
@@ -266,6 +266,11 @@ nav ul li a:hover {
   border: 2px solid #e6af2e;
   font-size: 20px;
   color: #e6af2e;
+}
+
+.back-text button:hover {
+  background-color: #e6af2e;
+  color: #191716;
 }
 
 /* -------end of services section------- */
