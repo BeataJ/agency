@@ -277,4 +277,11 @@ nav ul li a:hover {
   background: #e6af2e;
   color: #191716;
 }
+
+.service-item-white button:hover {
+  background: #191716;
+  border-color: #191716;
+  color: #e6af2e;
+}
+
 /* -------end of services section------- */
