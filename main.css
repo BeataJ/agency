@@ -292,4 +292,23 @@ nav ul li a:hover {
   bottom: 0;
 }
 
+@media screen and (min-width: 776px) {
+  .services-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .services-container .service-item:nth-of-type(1) {
+    order: 1;
+  }
+  .services-container .service-item:nth-of-type(2) {
+    order: 2;
+  }
+  .services-container .service-item:nth-of-type(3) {
+    order: 4;
+  }
+  .services-container .service-item:nth-of-type(4) {
+    order: 3;
+  }
+}
+
 /* -------end of services section------- */
