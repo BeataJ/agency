@@ -319,4 +319,9 @@ nav ul li a:hover {
   color: #191716;
 }
 
+#projects {
+  padding: 20px 0 80px 0;
+  background: #e0e2db;
+}
+
 /* end of projects section */
