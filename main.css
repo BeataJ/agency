@@ -210,4 +210,10 @@ nav ul li a:hover {
   padding: 20px 0 80px 0;
 }
 
+.services-container {
+  max-width: 90vw;
+  margin: 0 auto;
+  color: #e0e2db;
+}
+
 /* -------end of services section------- */
