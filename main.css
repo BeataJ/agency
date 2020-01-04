@@ -216,4 +216,10 @@ nav ul li a:hover {
   color: #e0e2db;
 }
 
+.service-item {
+  overflow: hidden;
+  position: relative;
+  padding: 60px;
+}
+
 /* -------end of services section------- */
