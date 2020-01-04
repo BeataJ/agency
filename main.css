@@ -228,4 +228,8 @@ nav ul li a:hover {
   color: #e6af2e;
 }
 
+.service-item-black {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+}
+
 /* -------end of services section------- */
