@@ -324,4 +324,9 @@ nav ul li a:hover {
   background: #e0e2db;
 }
 
+.projects-container {
+  max-width: 90vw;
+  margin: 0 auto;
+}
+
 /* end of projects section */
