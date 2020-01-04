@@ -259,4 +259,13 @@ nav ul li a:hover {
   margin-bottom: 20px;
 }
 
+.back-text button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: transparent;
+  border: 2px solid #e6af2e;
+  font-size: 20px;
+  color: #e6af2e;
+}
+
 /* -------end of services section------- */
