@@ -382,4 +382,9 @@ nav ul li a:hover {
   transform: scale(1.3);
 }
 
+.project-item:hover .img-text,
+.project-item:hover .img-footer {
+  opacity: 1;
+}
+
 /* end of projects section */
