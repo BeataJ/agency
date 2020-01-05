@@ -363,9 +363,18 @@ nav ul li a:hover {
   bottom: 0;
   padding: 10px;
   font-size: 20px;
-  opacity: 1;
+  opacity: 0;
   color: #e6af2e;
   transition: opacity 4s;
+}
+
+.img-text h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.img-text h6 {
+  font-size: 15px;
 }
 
 /* end of projects section */
