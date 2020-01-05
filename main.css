@@ -377,4 +377,9 @@ nav ul li a:hover {
   font-size: 15px;
 }
 
+.project-item:hover img {
+  opacity: 0.4;
+  transform: scale(1.3);
+}
+
 /* end of projects section */
