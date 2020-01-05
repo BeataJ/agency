@@ -354,4 +354,18 @@ nav ul li a:hover {
   transition: opacity 4s;
 }
 
+.img-footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 10px;
+  font-size: 20px;
+  opacity: 1;
+  color: #e6af2e;
+  transition: opacity 4s;
+}
+
 /* end of projects section */
