@@ -491,4 +491,8 @@ nav ul li a:hover {
   opacity: 1;
 }
 
+.text-container {
+  padding: 10px 5px 30px 5px;
+}
+
 /* ------end of posts section------- */
