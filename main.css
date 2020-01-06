@@ -508,4 +508,9 @@ nav ul li a:hover {
   margin-bottom: 20px;
 }
 
+.text-container a:hover {
+  background-color: #191716;
+  border-color: #191716;
+}
+
 /* ------end of posts section------- */
