@@ -443,3 +443,12 @@ nav ul li a:hover {
 }
 
 /* --------end of filler section---------- */
+
+/* -----posts section------- */
+
+#posts {
+  background: #beb7a4;
+  padding: 20px 0 80px 0;
+}
+
+/* ------end of posts section------- */
