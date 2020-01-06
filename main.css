@@ -420,4 +420,11 @@ nav ul li a:hover {
   flex-wrap: wrap;
   padding: 60px;
 }
+
+#filler-contact h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #e0e2db;
+}
+
 /* --------end of filler section---------- */
