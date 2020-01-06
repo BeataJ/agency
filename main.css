@@ -564,4 +564,9 @@ footer {
   transition: transform 2s;
 }
 
+.footer-icons .fa:hover {
+  color: #e6af2e;
+  transform: translateY(-15px)
+}
+
 /* -----end of footer------ */
