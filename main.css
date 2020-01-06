@@ -547,4 +547,11 @@ footer {
   align-items: baseline;
 }
 
+.footer-text {
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #e0e2db;
+  margin: 10px;
+}
+
 /* -----end of footer------ */
