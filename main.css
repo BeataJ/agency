@@ -499,4 +499,13 @@ nav ul li a:hover {
   margin: 15px 0 25px 0;
 }
 
+.text-container a {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  border: 2px solid #e6af2e;
+  color: #e6af2e;
+  margin-bottom: 20px;
+}
+
 /* ------end of posts section------- */
