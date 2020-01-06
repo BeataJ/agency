@@ -558,4 +558,10 @@ footer {
   font-size: 30px;
 }
 
+.footer-icons .fa {
+  margin-right: 10px;
+  color: #e0e2db;
+  transition: transform 2s;
+}
+
 /* -----end of footer------ */
