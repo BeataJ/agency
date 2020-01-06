@@ -462,8 +462,9 @@ nav ul li a:hover {
   margin: 20px 0;
 }
 
-/* #posts img {
+#posts img {
   width: 100%;
-} */
+  display: block;
+}
 
 /* ------end of posts section------- */
