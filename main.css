@@ -483,4 +483,12 @@ nav ul li a:hover {
   opacity: 0;
 }
 
+.img-container:hover img {
+  opacity: 0.4;
+}
+
+.img-container:hover .fa {
+  opacity: 1;
+}
+
 /* ------end of posts section------- */
