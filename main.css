@@ -437,4 +437,9 @@ nav ul li a:hover {
   padding: 10px 15px;
 }
 
+#filler-contact button:hover {
+  background: #e6af2e;
+  color: #191716;
+}
+
 /* --------end of filler section---------- */
