@@ -495,4 +495,8 @@ nav ul li a:hover {
   padding: 10px 5px 30px 5px;
 }
 
+.text-container p {
+  margin: 15px 0 25px 0;
+}
+
 /* ------end of posts section------- */
