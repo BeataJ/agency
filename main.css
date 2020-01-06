@@ -428,4 +428,13 @@ nav ul li a:hover {
   margin: 10px;
 }
 
+#filler-contact button {
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #e6af2e;
+  border: 2px solid #e6af2e;
+  background: transparent;
+  padding: 10px 15px;
+}
+
 /* --------end of filler section---------- */
